@@ -563,7 +563,7 @@ h3 {
   border-radius: 5px;
   font-size: 16px;
   text-align: center;
-  min-height: 80px; /* Change this value to your desired height */
+  min-height: 80px;
   display: center;
 }
 
@@ -691,7 +691,7 @@ h3 {
 
 #activ-title {
   font-size: 27px;
-  color: #F5F5DC; /* You may want to change this to something more visible against the dark background */
+  color: #F5F5DC;
   text-decoration: underline;
   font-style: italic;
   background-color: #000033; /* Background color */
